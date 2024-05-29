@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566320658572",
+    "project_id": "ac-reminder-app",
+    "storage_bucket": "ac-reminder-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566320658572:android:af90010f073a1121d063a9",
+        "android_client_info": {
+          "package_name": "com.example.ac_reminder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkKYWJ_5Vyz0OAx50g0pCk-RbnpSzl9XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
